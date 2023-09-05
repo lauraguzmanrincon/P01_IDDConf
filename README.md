@@ -1,3 +1,4 @@
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # P01\_IDDConf
@@ -48,9 +49,15 @@ This repository is structured as follow:
 
 ### Usage
 
-Clone the repository, open R/RStudio and run:
+First, clone this repository. You can follow [steps on creating a new
+Rstudio Project from a GitHub
+repository](https://www.epirhandbook.com/en/version-control-and-collaboration-with-git-and-github.html?q=clone#clone-from-a-github-repository).
 
-    source("make.R")
+Then, run:
+
+``` r
+source("make.R")
+```
 
 ### Notes
 
